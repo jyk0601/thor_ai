@@ -10,3 +10,4 @@ docker exec -it <docker 이름> sh
 		여기 formats 아래 json 추가함
 	이후 컨테이너 재시작
 		docker restart <docker 이름>
+1
