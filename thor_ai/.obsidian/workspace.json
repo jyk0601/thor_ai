@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/command.md",
+                "file": "Openclaw/관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "command"
+              "title": "관리"
             }
           }
         ]
@@ -200,8 +200,9 @@
   "active": "f6a27390db22495a",
   "lastOpenFiles": [
     "Openclaw/1. 설치.md",
-    "환영합니다!.md",
+    "Openclaw/관리.md",
     "Docker/command.md",
+    "환영합니다!.md",
     "Docker",
     "Openclaw",
     "Templates/oo.md",
